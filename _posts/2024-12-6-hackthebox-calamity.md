@@ -39,4 +39,4 @@ Tried this but it didn’t work, needed internet. Also tried the base64 workarou
 
 This builds a .tar.gz file of Alpine, so I transfer it over with nc.
 
-nevermind I literally could not fucking find or generate a i686 alpine file so I pwnkitted it but the general concept remains…
+After hours of searching, I literally could not  find or generate a i686 alpine file so I pwnkitted it but the general concept remains and LXD escapes are common through this method. I used this POC. https://github.com/arthepsy/CVE-2021-4034
