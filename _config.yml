@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ardian Peach"
   avatar : "https://infosec.danielvelez.me/assets/avatar.png"
-  bio    : "A silly little blog where I'll post HackTheBox writeups and my other adventures in collegiate cybersecurity competitions."
+  bio    : "My own corner of the internet where I'll post HackTheBox writeups and my other adventures in collegiate cybersecurity competitions."
   
 
 footer:
